@@ -1,0 +1,3044 @@
+[
+  {
+    "cityIata": "CCS",
+    "cityNameEs": "Caracas",
+    "name": "Gran Hotel Plaza Caracas",
+    "stars": 5,
+    "pricePerNightUsd": 184,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Caracas",
+    "description": "Gran Hotel Plaza en Caracas. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 51
+  },
+  {
+    "cityIata": "CCS",
+    "cityNameEs": "Caracas",
+    "name": "Boutique Centro Caracas",
+    "stars": 4,
+    "pricePerNightUsd": 135,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Caracas",
+    "description": "Boutique Centro en Caracas. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 48
+  },
+  {
+    "cityIata": "CCS",
+    "cityNameEs": "Caracas",
+    "name": "Comfort Inn Caracas",
+    "stars": 3,
+    "pricePerNightUsd": 75,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Caracas",
+    "description": "Comfort Inn en Caracas. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 119
+  },
+  {
+    "cityIata": "CCS",
+    "cityNameEs": "Caracas",
+    "name": "Business Suites Caracas",
+    "stars": 4,
+    "pricePerNightUsd": 154,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Caracas",
+    "description": "Business Suites en Caracas. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 73
+  },
+  {
+    "cityIata": "MAR",
+    "cityNameEs": "Maracaibo",
+    "name": "Gran Hotel Plaza Maracaibo",
+    "stars": 5,
+    "pricePerNightUsd": 214,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Maracaibo",
+    "description": "Gran Hotel Plaza en Maracaibo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 91
+  },
+  {
+    "cityIata": "MAR",
+    "cityNameEs": "Maracaibo",
+    "name": "Boutique Centro Maracaibo",
+    "stars": 4,
+    "pricePerNightUsd": 115,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Maracaibo",
+    "description": "Boutique Centro en Maracaibo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 64
+  },
+  {
+    "cityIata": "MAR",
+    "cityNameEs": "Maracaibo",
+    "name": "Comfort Inn Maracaibo",
+    "stars": 3,
+    "pricePerNightUsd": 84,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Maracaibo",
+    "description": "Comfort Inn en Maracaibo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 76
+  },
+  {
+    "cityIata": "MAR",
+    "cityNameEs": "Maracaibo",
+    "name": "Business Suites Maracaibo",
+    "stars": 4,
+    "pricePerNightUsd": 153,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Maracaibo",
+    "description": "Business Suites en Maracaibo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 51
+  },
+  {
+    "cityIata": "PMV",
+    "cityNameEs": "Porlamar / Margarita",
+    "name": "Gran Hotel Plaza Porlamar / Margarita",
+    "stars": 5,
+    "pricePerNightUsd": 205,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Porlamar / Margarita",
+    "description": "Gran Hotel Plaza en Porlamar / Margarita. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 87
+  },
+  {
+    "cityIata": "PMV",
+    "cityNameEs": "Porlamar / Margarita",
+    "name": "Boutique Centro Porlamar / Margarita",
+    "stars": 4,
+    "pricePerNightUsd": 143,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Porlamar / Margarita",
+    "description": "Boutique Centro en Porlamar / Margarita. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 87
+  },
+  {
+    "cityIata": "PMV",
+    "cityNameEs": "Porlamar / Margarita",
+    "name": "Comfort Inn Porlamar / Margarita",
+    "stars": 3,
+    "pricePerNightUsd": 87,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Porlamar / Margarita",
+    "description": "Comfort Inn en Porlamar / Margarita. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 70
+  },
+  {
+    "cityIata": "PMV",
+    "cityNameEs": "Porlamar / Margarita",
+    "name": "Resort Paradise Porlamar / Margarita",
+    "stars": 5,
+    "pricePerNightUsd": 244,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, Porlamar / Margarita",
+    "description": "Resort Paradise en Porlamar / Margarita. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 71
+  },
+  {
+    "cityIata": "PMV",
+    "cityNameEs": "Porlamar / Margarita",
+    "name": "Business Suites Porlamar / Margarita",
+    "stars": 4,
+    "pricePerNightUsd": 150,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Porlamar / Margarita",
+    "description": "Business Suites en Porlamar / Margarita. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 112
+  },
+  {
+    "cityIata": "JFK",
+    "cityNameEs": "Nueva York",
+    "name": "Gran Hotel Plaza Nueva York",
+    "stars": 5,
+    "pricePerNightUsd": 194,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Nueva York",
+    "description": "Gran Hotel Plaza en Nueva York. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 87
+  },
+  {
+    "cityIata": "JFK",
+    "cityNameEs": "Nueva York",
+    "name": "Boutique Centro Nueva York",
+    "stars": 4,
+    "pricePerNightUsd": 130,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Nueva York",
+    "description": "Boutique Centro en Nueva York. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 92
+  },
+  {
+    "cityIata": "JFK",
+    "cityNameEs": "Nueva York",
+    "name": "Comfort Inn Nueva York",
+    "stars": 3,
+    "pricePerNightUsd": 81,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Nueva York",
+    "description": "Comfort Inn en Nueva York. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 101
+  },
+  {
+    "cityIata": "JFK",
+    "cityNameEs": "Nueva York",
+    "name": "Business Suites Nueva York",
+    "stars": 4,
+    "pricePerNightUsd": 142,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Nueva York",
+    "description": "Business Suites en Nueva York. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 49
+  },
+  {
+    "cityIata": "MIA",
+    "cityNameEs": "Miami",
+    "name": "Gran Hotel Plaza Miami",
+    "stars": 5,
+    "pricePerNightUsd": 184,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Miami",
+    "description": "Gran Hotel Plaza en Miami. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 92
+  },
+  {
+    "cityIata": "MIA",
+    "cityNameEs": "Miami",
+    "name": "Boutique Centro Miami",
+    "stars": 4,
+    "pricePerNightUsd": 144,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Miami",
+    "description": "Boutique Centro en Miami. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 80
+  },
+  {
+    "cityIata": "MIA",
+    "cityNameEs": "Miami",
+    "name": "Comfort Inn Miami",
+    "stars": 3,
+    "pricePerNightUsd": 86,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Miami",
+    "description": "Comfort Inn en Miami. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 96
+  },
+  {
+    "cityIata": "MIA",
+    "cityNameEs": "Miami",
+    "name": "Business Suites Miami",
+    "stars": 4,
+    "pricePerNightUsd": 156,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Miami",
+    "description": "Business Suites en Miami. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 98
+  },
+  {
+    "cityIata": "LAX",
+    "cityNameEs": "Los Ángeles",
+    "name": "Gran Hotel Plaza Los Ángeles",
+    "stars": 5,
+    "pricePerNightUsd": 207,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Los Ángeles",
+    "description": "Gran Hotel Plaza en Los Ángeles. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 45
+  },
+  {
+    "cityIata": "LAX",
+    "cityNameEs": "Los Ángeles",
+    "name": "Boutique Centro Los Ángeles",
+    "stars": 4,
+    "pricePerNightUsd": 117,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Los Ángeles",
+    "description": "Boutique Centro en Los Ángeles. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 64
+  },
+  {
+    "cityIata": "LAX",
+    "cityNameEs": "Los Ángeles",
+    "name": "Comfort Inn Los Ángeles",
+    "stars": 3,
+    "pricePerNightUsd": 74,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Los Ángeles",
+    "description": "Comfort Inn en Los Ángeles. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 61
+  },
+  {
+    "cityIata": "LAX",
+    "cityNameEs": "Los Ángeles",
+    "name": "Business Suites Los Ángeles",
+    "stars": 4,
+    "pricePerNightUsd": 139,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Los Ángeles",
+    "description": "Business Suites en Los Ángeles. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 73
+  },
+  {
+    "cityIata": "MCO",
+    "cityNameEs": "Orlando",
+    "name": "Gran Hotel Plaza Orlando",
+    "stars": 5,
+    "pricePerNightUsd": 185,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Orlando",
+    "description": "Gran Hotel Plaza en Orlando. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 46
+  },
+  {
+    "cityIata": "MCO",
+    "cityNameEs": "Orlando",
+    "name": "Boutique Centro Orlando",
+    "stars": 4,
+    "pricePerNightUsd": 128,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Orlando",
+    "description": "Boutique Centro en Orlando. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 60
+  },
+  {
+    "cityIata": "MCO",
+    "cityNameEs": "Orlando",
+    "name": "Comfort Inn Orlando",
+    "stars": 3,
+    "pricePerNightUsd": 77,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Orlando",
+    "description": "Comfort Inn en Orlando. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 106
+  },
+  {
+    "cityIata": "MCO",
+    "cityNameEs": "Orlando",
+    "name": "Business Suites Orlando",
+    "stars": 4,
+    "pricePerNightUsd": 149,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Orlando",
+    "description": "Business Suites en Orlando. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 115
+  },
+  {
+    "cityIata": "IAH",
+    "cityNameEs": "Houston",
+    "name": "Gran Hotel Plaza Houston",
+    "stars": 5,
+    "pricePerNightUsd": 195,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Houston",
+    "description": "Gran Hotel Plaza en Houston. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 61
+  },
+  {
+    "cityIata": "IAH",
+    "cityNameEs": "Houston",
+    "name": "Boutique Centro Houston",
+    "stars": 4,
+    "pricePerNightUsd": 126,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Houston",
+    "description": "Boutique Centro en Houston. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 60
+  },
+  {
+    "cityIata": "IAH",
+    "cityNameEs": "Houston",
+    "name": "Comfort Inn Houston",
+    "stars": 3,
+    "pricePerNightUsd": 80,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Houston",
+    "description": "Comfort Inn en Houston. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 95
+  },
+  {
+    "cityIata": "IAH",
+    "cityNameEs": "Houston",
+    "name": "Business Suites Houston",
+    "stars": 4,
+    "pricePerNightUsd": 139,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Houston",
+    "description": "Business Suites en Houston. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 78
+  },
+  {
+    "cityIata": "MAD",
+    "cityNameEs": "Madrid",
+    "name": "Gran Hotel Plaza Madrid",
+    "stars": 5,
+    "pricePerNightUsd": 193,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Madrid",
+    "description": "Gran Hotel Plaza en Madrid. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 111
+  },
+  {
+    "cityIata": "MAD",
+    "cityNameEs": "Madrid",
+    "name": "Boutique Centro Madrid",
+    "stars": 4,
+    "pricePerNightUsd": 138,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Madrid",
+    "description": "Boutique Centro en Madrid. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 77
+  },
+  {
+    "cityIata": "MAD",
+    "cityNameEs": "Madrid",
+    "name": "Comfort Inn Madrid",
+    "stars": 3,
+    "pricePerNightUsd": 80,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Madrid",
+    "description": "Comfort Inn en Madrid. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 43
+  },
+  {
+    "cityIata": "MAD",
+    "cityNameEs": "Madrid",
+    "name": "Business Suites Madrid",
+    "stars": 4,
+    "pricePerNightUsd": 164,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Madrid",
+    "description": "Business Suites en Madrid. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 41
+  },
+  {
+    "cityIata": "BCN",
+    "cityNameEs": "Barcelona",
+    "name": "Gran Hotel Plaza Barcelona",
+    "stars": 5,
+    "pricePerNightUsd": 191,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Barcelona",
+    "description": "Gran Hotel Plaza en Barcelona. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 92
+  },
+  {
+    "cityIata": "BCN",
+    "cityNameEs": "Barcelona",
+    "name": "Boutique Centro Barcelona",
+    "stars": 4,
+    "pricePerNightUsd": 116,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Barcelona",
+    "description": "Boutique Centro en Barcelona. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 75
+  },
+  {
+    "cityIata": "BCN",
+    "cityNameEs": "Barcelona",
+    "name": "Comfort Inn Barcelona",
+    "stars": 3,
+    "pricePerNightUsd": 68,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Barcelona",
+    "description": "Comfort Inn en Barcelona. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 94
+  },
+  {
+    "cityIata": "BCN",
+    "cityNameEs": "Barcelona",
+    "name": "Business Suites Barcelona",
+    "stars": 4,
+    "pricePerNightUsd": 142,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Barcelona",
+    "description": "Business Suites en Barcelona. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 68
+  },
+  {
+    "cityIata": "AGP",
+    "cityNameEs": "Málaga",
+    "name": "Gran Hotel Plaza Málaga",
+    "stars": 5,
+    "pricePerNightUsd": 213,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Málaga",
+    "description": "Gran Hotel Plaza en Málaga. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 115
+  },
+  {
+    "cityIata": "AGP",
+    "cityNameEs": "Málaga",
+    "name": "Boutique Centro Málaga",
+    "stars": 4,
+    "pricePerNightUsd": 124,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Málaga",
+    "description": "Boutique Centro en Málaga. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 80
+  },
+  {
+    "cityIata": "AGP",
+    "cityNameEs": "Málaga",
+    "name": "Comfort Inn Málaga",
+    "stars": 3,
+    "pricePerNightUsd": 69,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Málaga",
+    "description": "Comfort Inn en Málaga. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 64
+  },
+  {
+    "cityIata": "AGP",
+    "cityNameEs": "Málaga",
+    "name": "Business Suites Málaga",
+    "stars": 4,
+    "pricePerNightUsd": 134,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Málaga",
+    "description": "Business Suites en Málaga. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 50
+  },
+  {
+    "cityIata": "MEX",
+    "cityNameEs": "Ciudad de México",
+    "name": "Gran Hotel Plaza Ciudad de México",
+    "stars": 5,
+    "pricePerNightUsd": 181,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Ciudad de México",
+    "description": "Gran Hotel Plaza en Ciudad de México. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 69
+  },
+  {
+    "cityIata": "MEX",
+    "cityNameEs": "Ciudad de México",
+    "name": "Boutique Centro Ciudad de México",
+    "stars": 4,
+    "pricePerNightUsd": 143,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Ciudad de México",
+    "description": "Boutique Centro en Ciudad de México. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 118
+  },
+  {
+    "cityIata": "MEX",
+    "cityNameEs": "Ciudad de México",
+    "name": "Comfort Inn Ciudad de México",
+    "stars": 3,
+    "pricePerNightUsd": 74,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Ciudad de México",
+    "description": "Comfort Inn en Ciudad de México. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 119
+  },
+  {
+    "cityIata": "MEX",
+    "cityNameEs": "Ciudad de México",
+    "name": "Business Suites Ciudad de México",
+    "stars": 4,
+    "pricePerNightUsd": 144,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Ciudad de México",
+    "description": "Business Suites en Ciudad de México. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 46
+  },
+  {
+    "cityIata": "CUN",
+    "cityNameEs": "Cancún",
+    "name": "Gran Hotel Plaza Cancún",
+    "stars": 5,
+    "pricePerNightUsd": 186,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Cancún",
+    "description": "Gran Hotel Plaza en Cancún. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 98
+  },
+  {
+    "cityIata": "CUN",
+    "cityNameEs": "Cancún",
+    "name": "Boutique Centro Cancún",
+    "stars": 4,
+    "pricePerNightUsd": 118,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Cancún",
+    "description": "Boutique Centro en Cancún. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 99
+  },
+  {
+    "cityIata": "CUN",
+    "cityNameEs": "Cancún",
+    "name": "Comfort Inn Cancún",
+    "stars": 3,
+    "pricePerNightUsd": 74,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Cancún",
+    "description": "Comfort Inn en Cancún. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 53
+  },
+  {
+    "cityIata": "CUN",
+    "cityNameEs": "Cancún",
+    "name": "Resort Paradise Cancún",
+    "stars": 5,
+    "pricePerNightUsd": 240,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, Cancún",
+    "description": "Resort Paradise en Cancún. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 40
+  },
+  {
+    "cityIata": "CUN",
+    "cityNameEs": "Cancún",
+    "name": "Business Suites Cancún",
+    "stars": 4,
+    "pricePerNightUsd": 136,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Cancún",
+    "description": "Business Suites en Cancún. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 63
+  },
+  {
+    "cityIata": "BOG",
+    "cityNameEs": "Bogotá",
+    "name": "Gran Hotel Plaza Bogotá",
+    "stars": 5,
+    "pricePerNightUsd": 210,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Bogotá",
+    "description": "Gran Hotel Plaza en Bogotá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 44
+  },
+  {
+    "cityIata": "BOG",
+    "cityNameEs": "Bogotá",
+    "name": "Boutique Centro Bogotá",
+    "stars": 4,
+    "pricePerNightUsd": 116,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Bogotá",
+    "description": "Boutique Centro en Bogotá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 95
+  },
+  {
+    "cityIata": "BOG",
+    "cityNameEs": "Bogotá",
+    "name": "Comfort Inn Bogotá",
+    "stars": 3,
+    "pricePerNightUsd": 95,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Bogotá",
+    "description": "Comfort Inn en Bogotá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 90
+  },
+  {
+    "cityIata": "BOG",
+    "cityNameEs": "Bogotá",
+    "name": "Business Suites Bogotá",
+    "stars": 4,
+    "pricePerNightUsd": 152,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Bogotá",
+    "description": "Business Suites en Bogotá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 115
+  },
+  {
+    "cityIata": "MDE",
+    "cityNameEs": "Medellín",
+    "name": "Gran Hotel Plaza Medellín",
+    "stars": 5,
+    "pricePerNightUsd": 188,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Medellín",
+    "description": "Gran Hotel Plaza en Medellín. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 107
+  },
+  {
+    "cityIata": "MDE",
+    "cityNameEs": "Medellín",
+    "name": "Boutique Centro Medellín",
+    "stars": 4,
+    "pricePerNightUsd": 127,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Medellín",
+    "description": "Boutique Centro en Medellín. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 66
+  },
+  {
+    "cityIata": "MDE",
+    "cityNameEs": "Medellín",
+    "name": "Comfort Inn Medellín",
+    "stars": 3,
+    "pricePerNightUsd": 82,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Medellín",
+    "description": "Comfort Inn en Medellín. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 61
+  },
+  {
+    "cityIata": "MDE",
+    "cityNameEs": "Medellín",
+    "name": "Business Suites Medellín",
+    "stars": 4,
+    "pricePerNightUsd": 151,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Medellín",
+    "description": "Business Suites en Medellín. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 98
+  },
+  {
+    "cityIata": "CTG",
+    "cityNameEs": "Cartagena",
+    "name": "Gran Hotel Plaza Cartagena",
+    "stars": 5,
+    "pricePerNightUsd": 210,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Cartagena",
+    "description": "Gran Hotel Plaza en Cartagena. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 66
+  },
+  {
+    "cityIata": "CTG",
+    "cityNameEs": "Cartagena",
+    "name": "Boutique Centro Cartagena",
+    "stars": 4,
+    "pricePerNightUsd": 141,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Cartagena",
+    "description": "Boutique Centro en Cartagena. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 40
+  },
+  {
+    "cityIata": "CTG",
+    "cityNameEs": "Cartagena",
+    "name": "Comfort Inn Cartagena",
+    "stars": 3,
+    "pricePerNightUsd": 83,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Cartagena",
+    "description": "Comfort Inn en Cartagena. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 61
+  },
+  {
+    "cityIata": "CTG",
+    "cityNameEs": "Cartagena",
+    "name": "Resort Paradise Cartagena",
+    "stars": 5,
+    "pricePerNightUsd": 271,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, Cartagena",
+    "description": "Resort Paradise en Cartagena. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 83
+  },
+  {
+    "cityIata": "CTG",
+    "cityNameEs": "Cartagena",
+    "name": "Business Suites Cartagena",
+    "stars": 4,
+    "pricePerNightUsd": 133,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Cartagena",
+    "description": "Business Suites en Cartagena. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 104
+  },
+  {
+    "cityIata": "PTY",
+    "cityNameEs": "Ciudad de Panamá",
+    "name": "Gran Hotel Plaza Ciudad de Panamá",
+    "stars": 5,
+    "pricePerNightUsd": 183,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Ciudad de Panamá",
+    "description": "Gran Hotel Plaza en Ciudad de Panamá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 49
+  },
+  {
+    "cityIata": "PTY",
+    "cityNameEs": "Ciudad de Panamá",
+    "name": "Boutique Centro Ciudad de Panamá",
+    "stars": 4,
+    "pricePerNightUsd": 140,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Ciudad de Panamá",
+    "description": "Boutique Centro en Ciudad de Panamá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 96
+  },
+  {
+    "cityIata": "PTY",
+    "cityNameEs": "Ciudad de Panamá",
+    "name": "Comfort Inn Ciudad de Panamá",
+    "stars": 3,
+    "pricePerNightUsd": 86,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Ciudad de Panamá",
+    "description": "Comfort Inn en Ciudad de Panamá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 100
+  },
+  {
+    "cityIata": "PTY",
+    "cityNameEs": "Ciudad de Panamá",
+    "name": "Business Suites Ciudad de Panamá",
+    "stars": 4,
+    "pricePerNightUsd": 149,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Ciudad de Panamá",
+    "description": "Business Suites en Ciudad de Panamá. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 63
+  },
+  {
+    "cityIata": "EZE",
+    "cityNameEs": "Buenos Aires",
+    "name": "Gran Hotel Plaza Buenos Aires",
+    "stars": 5,
+    "pricePerNightUsd": 193,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Buenos Aires",
+    "description": "Gran Hotel Plaza en Buenos Aires. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 113
+  },
+  {
+    "cityIata": "EZE",
+    "cityNameEs": "Buenos Aires",
+    "name": "Boutique Centro Buenos Aires",
+    "stars": 4,
+    "pricePerNightUsd": 123,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Buenos Aires",
+    "description": "Boutique Centro en Buenos Aires. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 85
+  },
+  {
+    "cityIata": "EZE",
+    "cityNameEs": "Buenos Aires",
+    "name": "Comfort Inn Buenos Aires",
+    "stars": 3,
+    "pricePerNightUsd": 83,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Buenos Aires",
+    "description": "Comfort Inn en Buenos Aires. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 56
+  },
+  {
+    "cityIata": "EZE",
+    "cityNameEs": "Buenos Aires",
+    "name": "Business Suites Buenos Aires",
+    "stars": 4,
+    "pricePerNightUsd": 149,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Buenos Aires",
+    "description": "Business Suites en Buenos Aires. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 79
+  },
+  {
+    "cityIata": "GIG",
+    "cityNameEs": "Río de Janeiro",
+    "name": "Gran Hotel Plaza Río de Janeiro",
+    "stars": 5,
+    "pricePerNightUsd": 204,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Río de Janeiro",
+    "description": "Gran Hotel Plaza en Río de Janeiro. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 117
+  },
+  {
+    "cityIata": "GIG",
+    "cityNameEs": "Río de Janeiro",
+    "name": "Boutique Centro Río de Janeiro",
+    "stars": 4,
+    "pricePerNightUsd": 111,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Río de Janeiro",
+    "description": "Boutique Centro en Río de Janeiro. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 111
+  },
+  {
+    "cityIata": "GIG",
+    "cityNameEs": "Río de Janeiro",
+    "name": "Comfort Inn Río de Janeiro",
+    "stars": 3,
+    "pricePerNightUsd": 89,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Río de Janeiro",
+    "description": "Comfort Inn en Río de Janeiro. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 94
+  },
+  {
+    "cityIata": "GIG",
+    "cityNameEs": "Río de Janeiro",
+    "name": "Business Suites Río de Janeiro",
+    "stars": 4,
+    "pricePerNightUsd": 163,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Río de Janeiro",
+    "description": "Business Suites en Río de Janeiro. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 66
+  },
+  {
+    "cityIata": "GRU",
+    "cityNameEs": "São Paulo",
+    "name": "Gran Hotel Plaza São Paulo",
+    "stars": 5,
+    "pricePerNightUsd": 209,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, São Paulo",
+    "description": "Gran Hotel Plaza en São Paulo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 43
+  },
+  {
+    "cityIata": "GRU",
+    "cityNameEs": "São Paulo",
+    "name": "Boutique Centro São Paulo",
+    "stars": 4,
+    "pricePerNightUsd": 113,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, São Paulo",
+    "description": "Boutique Centro en São Paulo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 46
+  },
+  {
+    "cityIata": "GRU",
+    "cityNameEs": "São Paulo",
+    "name": "Comfort Inn São Paulo",
+    "stars": 3,
+    "pricePerNightUsd": 97,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, São Paulo",
+    "description": "Comfort Inn en São Paulo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 103
+  },
+  {
+    "cityIata": "GRU",
+    "cityNameEs": "São Paulo",
+    "name": "Business Suites São Paulo",
+    "stars": 4,
+    "pricePerNightUsd": 159,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, São Paulo",
+    "description": "Business Suites en São Paulo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 70
+  },
+  {
+    "cityIata": "CDG",
+    "cityNameEs": "París",
+    "name": "Gran Hotel Plaza París",
+    "stars": 5,
+    "pricePerNightUsd": 182,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, París",
+    "description": "Gran Hotel Plaza en París. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 103
+  },
+  {
+    "cityIata": "CDG",
+    "cityNameEs": "París",
+    "name": "Boutique Centro París",
+    "stars": 4,
+    "pricePerNightUsd": 143,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, París",
+    "description": "Boutique Centro en París. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 65
+  },
+  {
+    "cityIata": "CDG",
+    "cityNameEs": "París",
+    "name": "Comfort Inn París",
+    "stars": 3,
+    "pricePerNightUsd": 76,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, París",
+    "description": "Comfort Inn en París. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 43
+  },
+  {
+    "cityIata": "CDG",
+    "cityNameEs": "París",
+    "name": "Business Suites París",
+    "stars": 4,
+    "pricePerNightUsd": 137,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, París",
+    "description": "Business Suites en París. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 80
+  },
+  {
+    "cityIata": "FCO",
+    "cityNameEs": "Roma",
+    "name": "Gran Hotel Plaza Roma",
+    "stars": 5,
+    "pricePerNightUsd": 203,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Roma",
+    "description": "Gran Hotel Plaza en Roma. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 75
+  },
+  {
+    "cityIata": "FCO",
+    "cityNameEs": "Roma",
+    "name": "Boutique Centro Roma",
+    "stars": 4,
+    "pricePerNightUsd": 143,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Roma",
+    "description": "Boutique Centro en Roma. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 47
+  },
+  {
+    "cityIata": "FCO",
+    "cityNameEs": "Roma",
+    "name": "Comfort Inn Roma",
+    "stars": 3,
+    "pricePerNightUsd": 99,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Roma",
+    "description": "Comfort Inn en Roma. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 41
+  },
+  {
+    "cityIata": "FCO",
+    "cityNameEs": "Roma",
+    "name": "Business Suites Roma",
+    "stars": 4,
+    "pricePerNightUsd": 133,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Roma",
+    "description": "Business Suites en Roma. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 64
+  },
+  {
+    "cityIata": "MXP",
+    "cityNameEs": "Milán",
+    "name": "Gran Hotel Plaza Milán",
+    "stars": 5,
+    "pricePerNightUsd": 201,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Milán",
+    "description": "Gran Hotel Plaza en Milán. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 93
+  },
+  {
+    "cityIata": "MXP",
+    "cityNameEs": "Milán",
+    "name": "Boutique Centro Milán",
+    "stars": 4,
+    "pricePerNightUsd": 120,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Milán",
+    "description": "Boutique Centro en Milán. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 75
+  },
+  {
+    "cityIata": "MXP",
+    "cityNameEs": "Milán",
+    "name": "Comfort Inn Milán",
+    "stars": 3,
+    "pricePerNightUsd": 72,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Milán",
+    "description": "Comfort Inn en Milán. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 68
+  },
+  {
+    "cityIata": "MXP",
+    "cityNameEs": "Milán",
+    "name": "Business Suites Milán",
+    "stars": 4,
+    "pricePerNightUsd": 134,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Milán",
+    "description": "Business Suites en Milán. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 118
+  },
+  {
+    "cityIata": "VCE",
+    "cityNameEs": "Venecia",
+    "name": "Gran Hotel Plaza Venecia",
+    "stars": 5,
+    "pricePerNightUsd": 204,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Venecia",
+    "description": "Gran Hotel Plaza en Venecia. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 82
+  },
+  {
+    "cityIata": "VCE",
+    "cityNameEs": "Venecia",
+    "name": "Boutique Centro Venecia",
+    "stars": 4,
+    "pricePerNightUsd": 128,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Venecia",
+    "description": "Boutique Centro en Venecia. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 41
+  },
+  {
+    "cityIata": "VCE",
+    "cityNameEs": "Venecia",
+    "name": "Comfort Inn Venecia",
+    "stars": 3,
+    "pricePerNightUsd": 88,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Venecia",
+    "description": "Comfort Inn en Venecia. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 103
+  },
+  {
+    "cityIata": "VCE",
+    "cityNameEs": "Venecia",
+    "name": "Business Suites Venecia",
+    "stars": 4,
+    "pricePerNightUsd": 149,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Venecia",
+    "description": "Business Suites en Venecia. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 53
+  },
+  {
+    "cityIata": "PUJ",
+    "cityNameEs": "Punta Cana",
+    "name": "Gran Hotel Plaza Punta Cana",
+    "stars": 5,
+    "pricePerNightUsd": 203,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Punta Cana",
+    "description": "Gran Hotel Plaza en Punta Cana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 101
+  },
+  {
+    "cityIata": "PUJ",
+    "cityNameEs": "Punta Cana",
+    "name": "Boutique Centro Punta Cana",
+    "stars": 4,
+    "pricePerNightUsd": 135,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Punta Cana",
+    "description": "Boutique Centro en Punta Cana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 42
+  },
+  {
+    "cityIata": "PUJ",
+    "cityNameEs": "Punta Cana",
+    "name": "Comfort Inn Punta Cana",
+    "stars": 3,
+    "pricePerNightUsd": 90,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Punta Cana",
+    "description": "Comfort Inn en Punta Cana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 44
+  },
+  {
+    "cityIata": "PUJ",
+    "cityNameEs": "Punta Cana",
+    "name": "Resort Paradise Punta Cana",
+    "stars": 5,
+    "pricePerNightUsd": 252,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, Punta Cana",
+    "description": "Resort Paradise en Punta Cana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 73
+  },
+  {
+    "cityIata": "PUJ",
+    "cityNameEs": "Punta Cana",
+    "name": "Business Suites Punta Cana",
+    "stars": 4,
+    "pricePerNightUsd": 140,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Punta Cana",
+    "description": "Business Suites en Punta Cana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 101
+  },
+  {
+    "cityIata": "SDQ",
+    "cityNameEs": "Santo Domingo",
+    "name": "Gran Hotel Plaza Santo Domingo",
+    "stars": 5,
+    "pricePerNightUsd": 187,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Santo Domingo",
+    "description": "Gran Hotel Plaza en Santo Domingo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 71
+  },
+  {
+    "cityIata": "SDQ",
+    "cityNameEs": "Santo Domingo",
+    "name": "Boutique Centro Santo Domingo",
+    "stars": 4,
+    "pricePerNightUsd": 118,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Santo Domingo",
+    "description": "Boutique Centro en Santo Domingo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 102
+  },
+  {
+    "cityIata": "SDQ",
+    "cityNameEs": "Santo Domingo",
+    "name": "Comfort Inn Santo Domingo",
+    "stars": 3,
+    "pricePerNightUsd": 66,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Santo Domingo",
+    "description": "Comfort Inn en Santo Domingo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 97
+  },
+  {
+    "cityIata": "SDQ",
+    "cityNameEs": "Santo Domingo",
+    "name": "Business Suites Santo Domingo",
+    "stars": 4,
+    "pricePerNightUsd": 162,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Santo Domingo",
+    "description": "Business Suites en Santo Domingo. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 101
+  },
+  {
+    "cityIata": "LIM",
+    "cityNameEs": "Lima",
+    "name": "Gran Hotel Plaza Lima",
+    "stars": 5,
+    "pricePerNightUsd": 204,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Lima",
+    "description": "Gran Hotel Plaza en Lima. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 69
+  },
+  {
+    "cityIata": "LIM",
+    "cityNameEs": "Lima",
+    "name": "Boutique Centro Lima",
+    "stars": 4,
+    "pricePerNightUsd": 138,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Lima",
+    "description": "Boutique Centro en Lima. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 76
+  },
+  {
+    "cityIata": "LIM",
+    "cityNameEs": "Lima",
+    "name": "Comfort Inn Lima",
+    "stars": 3,
+    "pricePerNightUsd": 78,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Lima",
+    "description": "Comfort Inn en Lima. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 74
+  },
+  {
+    "cityIata": "LIM",
+    "cityNameEs": "Lima",
+    "name": "Business Suites Lima",
+    "stars": 4,
+    "pricePerNightUsd": 152,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Lima",
+    "description": "Business Suites en Lima. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 54
+  },
+  {
+    "cityIata": "CUZ",
+    "cityNameEs": "Cusco",
+    "name": "Gran Hotel Plaza Cusco",
+    "stars": 5,
+    "pricePerNightUsd": 192,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Cusco",
+    "description": "Gran Hotel Plaza en Cusco. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 96
+  },
+  {
+    "cityIata": "CUZ",
+    "cityNameEs": "Cusco",
+    "name": "Boutique Centro Cusco",
+    "stars": 4,
+    "pricePerNightUsd": 111,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Cusco",
+    "description": "Boutique Centro en Cusco. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 103
+  },
+  {
+    "cityIata": "CUZ",
+    "cityNameEs": "Cusco",
+    "name": "Comfort Inn Cusco",
+    "stars": 3,
+    "pricePerNightUsd": 88,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Cusco",
+    "description": "Comfort Inn en Cusco. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 101
+  },
+  {
+    "cityIata": "CUZ",
+    "cityNameEs": "Cusco",
+    "name": "Business Suites Cusco",
+    "stars": 4,
+    "pricePerNightUsd": 133,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Cusco",
+    "description": "Business Suites en Cusco. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 96
+  },
+  {
+    "cityIata": "SCL",
+    "cityNameEs": "Santiago",
+    "name": "Gran Hotel Plaza Santiago",
+    "stars": 5,
+    "pricePerNightUsd": 191,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Santiago",
+    "description": "Gran Hotel Plaza en Santiago. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 110
+  },
+  {
+    "cityIata": "SCL",
+    "cityNameEs": "Santiago",
+    "name": "Boutique Centro Santiago",
+    "stars": 4,
+    "pricePerNightUsd": 126,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Santiago",
+    "description": "Boutique Centro en Santiago. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 87
+  },
+  {
+    "cityIata": "SCL",
+    "cityNameEs": "Santiago",
+    "name": "Comfort Inn Santiago",
+    "stars": 3,
+    "pricePerNightUsd": 98,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Santiago",
+    "description": "Comfort Inn en Santiago. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 42
+  },
+  {
+    "cityIata": "SCL",
+    "cityNameEs": "Santiago",
+    "name": "Business Suites Santiago",
+    "stars": 4,
+    "pricePerNightUsd": 131,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Santiago",
+    "description": "Business Suites en Santiago. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 71
+  },
+  {
+    "cityIata": "UIO",
+    "cityNameEs": "Quito",
+    "name": "Gran Hotel Plaza Quito",
+    "stars": 5,
+    "pricePerNightUsd": 182,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Quito",
+    "description": "Gran Hotel Plaza en Quito. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 92
+  },
+  {
+    "cityIata": "UIO",
+    "cityNameEs": "Quito",
+    "name": "Boutique Centro Quito",
+    "stars": 4,
+    "pricePerNightUsd": 116,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Quito",
+    "description": "Boutique Centro en Quito. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 61
+  },
+  {
+    "cityIata": "UIO",
+    "cityNameEs": "Quito",
+    "name": "Comfort Inn Quito",
+    "stars": 3,
+    "pricePerNightUsd": 89,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Quito",
+    "description": "Comfort Inn en Quito. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 40
+  },
+  {
+    "cityIata": "UIO",
+    "cityNameEs": "Quito",
+    "name": "Business Suites Quito",
+    "stars": 4,
+    "pricePerNightUsd": 132,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Quito",
+    "description": "Business Suites en Quito. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 78
+  },
+  {
+    "cityIata": "GYE",
+    "cityNameEs": "Guayaquil",
+    "name": "Gran Hotel Plaza Guayaquil",
+    "stars": 5,
+    "pricePerNightUsd": 213,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Guayaquil",
+    "description": "Gran Hotel Plaza en Guayaquil. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 118
+  },
+  {
+    "cityIata": "GYE",
+    "cityNameEs": "Guayaquil",
+    "name": "Boutique Centro Guayaquil",
+    "stars": 4,
+    "pricePerNightUsd": 125,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Guayaquil",
+    "description": "Boutique Centro en Guayaquil. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 110
+  },
+  {
+    "cityIata": "GYE",
+    "cityNameEs": "Guayaquil",
+    "name": "Comfort Inn Guayaquil",
+    "stars": 3,
+    "pricePerNightUsd": 77,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Guayaquil",
+    "description": "Comfort Inn en Guayaquil. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 48
+  },
+  {
+    "cityIata": "GYE",
+    "cityNameEs": "Guayaquil",
+    "name": "Business Suites Guayaquil",
+    "stars": 4,
+    "pricePerNightUsd": 149,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Guayaquil",
+    "description": "Business Suites en Guayaquil. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 117
+  },
+  {
+    "cityIata": "LIS",
+    "cityNameEs": "Lisboa",
+    "name": "Gran Hotel Plaza Lisboa",
+    "stars": 5,
+    "pricePerNightUsd": 210,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Lisboa",
+    "description": "Gran Hotel Plaza en Lisboa. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 61
+  },
+  {
+    "cityIata": "LIS",
+    "cityNameEs": "Lisboa",
+    "name": "Boutique Centro Lisboa",
+    "stars": 4,
+    "pricePerNightUsd": 110,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Lisboa",
+    "description": "Boutique Centro en Lisboa. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 65
+  },
+  {
+    "cityIata": "LIS",
+    "cityNameEs": "Lisboa",
+    "name": "Comfort Inn Lisboa",
+    "stars": 3,
+    "pricePerNightUsd": 82,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Lisboa",
+    "description": "Comfort Inn en Lisboa. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 76
+  },
+  {
+    "cityIata": "LIS",
+    "cityNameEs": "Lisboa",
+    "name": "Business Suites Lisboa",
+    "stars": 4,
+    "pricePerNightUsd": 155,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Lisboa",
+    "description": "Business Suites en Lisboa. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 103
+  },
+  {
+    "cityIata": "LHR",
+    "cityNameEs": "Londres",
+    "name": "Gran Hotel Plaza Londres",
+    "stars": 5,
+    "pricePerNightUsd": 187,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Londres",
+    "description": "Gran Hotel Plaza en Londres. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 79
+  },
+  {
+    "cityIata": "LHR",
+    "cityNameEs": "Londres",
+    "name": "Boutique Centro Londres",
+    "stars": 4,
+    "pricePerNightUsd": 117,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Londres",
+    "description": "Boutique Centro en Londres. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 50
+  },
+  {
+    "cityIata": "LHR",
+    "cityNameEs": "Londres",
+    "name": "Comfort Inn Londres",
+    "stars": 3,
+    "pricePerNightUsd": 86,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Londres",
+    "description": "Comfort Inn en Londres. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 82
+  },
+  {
+    "cityIata": "LHR",
+    "cityNameEs": "Londres",
+    "name": "Business Suites Londres",
+    "stars": 4,
+    "pricePerNightUsd": 136,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Londres",
+    "description": "Business Suites en Londres. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 88
+  },
+  {
+    "cityIata": "IST",
+    "cityNameEs": "Estambul",
+    "name": "Gran Hotel Plaza Estambul",
+    "stars": 5,
+    "pricePerNightUsd": 196,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Estambul",
+    "description": "Gran Hotel Plaza en Estambul. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 108
+  },
+  {
+    "cityIata": "IST",
+    "cityNameEs": "Estambul",
+    "name": "Boutique Centro Estambul",
+    "stars": 4,
+    "pricePerNightUsd": 115,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Estambul",
+    "description": "Boutique Centro en Estambul. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 47
+  },
+  {
+    "cityIata": "IST",
+    "cityNameEs": "Estambul",
+    "name": "Comfort Inn Estambul",
+    "stars": 3,
+    "pricePerNightUsd": 86,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Estambul",
+    "description": "Comfort Inn en Estambul. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 52
+  },
+  {
+    "cityIata": "IST",
+    "cityNameEs": "Estambul",
+    "name": "Business Suites Estambul",
+    "stars": 4,
+    "pricePerNightUsd": 161,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Estambul",
+    "description": "Business Suites en Estambul. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 96
+  },
+  {
+    "cityIata": "DXB",
+    "cityNameEs": "Dubái",
+    "name": "Gran Hotel Plaza Dubái",
+    "stars": 5,
+    "pricePerNightUsd": 205,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Dubái",
+    "description": "Gran Hotel Plaza en Dubái. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 72
+  },
+  {
+    "cityIata": "DXB",
+    "cityNameEs": "Dubái",
+    "name": "Boutique Centro Dubái",
+    "stars": 4,
+    "pricePerNightUsd": 142,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Dubái",
+    "description": "Boutique Centro en Dubái. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 53
+  },
+  {
+    "cityIata": "DXB",
+    "cityNameEs": "Dubái",
+    "name": "Comfort Inn Dubái",
+    "stars": 3,
+    "pricePerNightUsd": 97,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Dubái",
+    "description": "Comfort Inn en Dubái. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 69
+  },
+  {
+    "cityIata": "DXB",
+    "cityNameEs": "Dubái",
+    "name": "Business Suites Dubái",
+    "stars": 4,
+    "pricePerNightUsd": 149,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Dubái",
+    "description": "Business Suites en Dubái. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 68
+  },
+  {
+    "cityIata": "YYZ",
+    "cityNameEs": "Toronto",
+    "name": "Gran Hotel Plaza Toronto",
+    "stars": 5,
+    "pricePerNightUsd": 200,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Toronto",
+    "description": "Gran Hotel Plaza en Toronto. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 65
+  },
+  {
+    "cityIata": "YYZ",
+    "cityNameEs": "Toronto",
+    "name": "Boutique Centro Toronto",
+    "stars": 4,
+    "pricePerNightUsd": 116,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Toronto",
+    "description": "Boutique Centro en Toronto. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 65
+  },
+  {
+    "cityIata": "YYZ",
+    "cityNameEs": "Toronto",
+    "name": "Comfort Inn Toronto",
+    "stars": 3,
+    "pricePerNightUsd": 76,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Toronto",
+    "description": "Comfort Inn en Toronto. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 102
+  },
+  {
+    "cityIata": "YYZ",
+    "cityNameEs": "Toronto",
+    "name": "Business Suites Toronto",
+    "stars": 4,
+    "pricePerNightUsd": 163,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Toronto",
+    "description": "Business Suites en Toronto. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 69
+  },
+  {
+    "cityIata": "HAV",
+    "cityNameEs": "La Habana",
+    "name": "Gran Hotel Plaza La Habana",
+    "stars": 5,
+    "pricePerNightUsd": 189,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, La Habana",
+    "description": "Gran Hotel Plaza en La Habana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 109
+  },
+  {
+    "cityIata": "HAV",
+    "cityNameEs": "La Habana",
+    "name": "Boutique Centro La Habana",
+    "stars": 4,
+    "pricePerNightUsd": 131,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, La Habana",
+    "description": "Boutique Centro en La Habana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 64
+  },
+  {
+    "cityIata": "HAV",
+    "cityNameEs": "La Habana",
+    "name": "Comfort Inn La Habana",
+    "stars": 3,
+    "pricePerNightUsd": 99,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, La Habana",
+    "description": "Comfort Inn en La Habana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 105
+  },
+  {
+    "cityIata": "HAV",
+    "cityNameEs": "La Habana",
+    "name": "Resort Paradise La Habana",
+    "stars": 5,
+    "pricePerNightUsd": 252,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, La Habana",
+    "description": "Resort Paradise en La Habana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 115
+  },
+  {
+    "cityIata": "HAV",
+    "cityNameEs": "La Habana",
+    "name": "Business Suites La Habana",
+    "stars": 4,
+    "pricePerNightUsd": 163,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, La Habana",
+    "description": "Business Suites en La Habana. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 90
+  },
+  {
+    "cityIata": "SJO",
+    "cityNameEs": "San José",
+    "name": "Gran Hotel Plaza San José",
+    "stars": 5,
+    "pricePerNightUsd": 197,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, San José",
+    "description": "Gran Hotel Plaza en San José. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 46
+  },
+  {
+    "cityIata": "SJO",
+    "cityNameEs": "San José",
+    "name": "Boutique Centro San José",
+    "stars": 4,
+    "pricePerNightUsd": 137,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, San José",
+    "description": "Boutique Centro en San José. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 100
+  },
+  {
+    "cityIata": "SJO",
+    "cityNameEs": "San José",
+    "name": "Comfort Inn San José",
+    "stars": 3,
+    "pricePerNightUsd": 86,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, San José",
+    "description": "Comfort Inn en San José. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 91
+  },
+  {
+    "cityIata": "SJO",
+    "cityNameEs": "San José",
+    "name": "Business Suites San José",
+    "stars": 4,
+    "pricePerNightUsd": 163,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, San José",
+    "description": "Business Suites en San José. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 77
+  },
+  {
+    "cityIata": "SJU",
+    "cityNameEs": "San Juan",
+    "name": "Gran Hotel Plaza San Juan",
+    "stars": 5,
+    "pricePerNightUsd": 214,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, San Juan",
+    "description": "Gran Hotel Plaza en San Juan. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 91
+  },
+  {
+    "cityIata": "SJU",
+    "cityNameEs": "San Juan",
+    "name": "Boutique Centro San Juan",
+    "stars": 4,
+    "pricePerNightUsd": 121,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, San Juan",
+    "description": "Boutique Centro en San Juan. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 117
+  },
+  {
+    "cityIata": "SJU",
+    "cityNameEs": "San Juan",
+    "name": "Comfort Inn San Juan",
+    "stars": 3,
+    "pricePerNightUsd": 75,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, San Juan",
+    "description": "Comfort Inn en San Juan. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 47
+  },
+  {
+    "cityIata": "SJU",
+    "cityNameEs": "San Juan",
+    "name": "Resort Paradise San Juan",
+    "stars": 5,
+    "pricePerNightUsd": 257,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, San Juan",
+    "description": "Resort Paradise en San Juan. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 98
+  },
+  {
+    "cityIata": "SJU",
+    "cityNameEs": "San Juan",
+    "name": "Business Suites San Juan",
+    "stars": 4,
+    "pricePerNightUsd": 141,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, San Juan",
+    "description": "Business Suites en San Juan. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 90
+  },
+  {
+    "cityIata": "AUA",
+    "cityNameEs": "Oranjestad / Aruba",
+    "name": "Gran Hotel Plaza Oranjestad / Aruba",
+    "stars": 5,
+    "pricePerNightUsd": 183,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Oranjestad / Aruba",
+    "description": "Gran Hotel Plaza en Oranjestad / Aruba. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 102
+  },
+  {
+    "cityIata": "AUA",
+    "cityNameEs": "Oranjestad / Aruba",
+    "name": "Boutique Centro Oranjestad / Aruba",
+    "stars": 4,
+    "pricePerNightUsd": 122,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Oranjestad / Aruba",
+    "description": "Boutique Centro en Oranjestad / Aruba. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 99
+  },
+  {
+    "cityIata": "AUA",
+    "cityNameEs": "Oranjestad / Aruba",
+    "name": "Comfort Inn Oranjestad / Aruba",
+    "stars": 3,
+    "pricePerNightUsd": 65,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Oranjestad / Aruba",
+    "description": "Comfort Inn en Oranjestad / Aruba. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 72
+  },
+  {
+    "cityIata": "AUA",
+    "cityNameEs": "Oranjestad / Aruba",
+    "name": "Resort Paradise Oranjestad / Aruba",
+    "stars": 5,
+    "pricePerNightUsd": 250,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, Oranjestad / Aruba",
+    "description": "Resort Paradise en Oranjestad / Aruba. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 73
+  },
+  {
+    "cityIata": "AUA",
+    "cityNameEs": "Oranjestad / Aruba",
+    "name": "Business Suites Oranjestad / Aruba",
+    "stars": 4,
+    "pricePerNightUsd": 137,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Oranjestad / Aruba",
+    "description": "Business Suites en Oranjestad / Aruba. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 58
+  },
+  {
+    "cityIata": "CUR",
+    "cityNameEs": "Willemstad / Curazao",
+    "name": "Gran Hotel Plaza Willemstad / Curazao",
+    "stars": 5,
+    "pricePerNightUsd": 197,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Willemstad / Curazao",
+    "description": "Gran Hotel Plaza en Willemstad / Curazao. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 59
+  },
+  {
+    "cityIata": "CUR",
+    "cityNameEs": "Willemstad / Curazao",
+    "name": "Boutique Centro Willemstad / Curazao",
+    "stars": 4,
+    "pricePerNightUsd": 125,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Willemstad / Curazao",
+    "description": "Boutique Centro en Willemstad / Curazao. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 44
+  },
+  {
+    "cityIata": "CUR",
+    "cityNameEs": "Willemstad / Curazao",
+    "name": "Comfort Inn Willemstad / Curazao",
+    "stars": 3,
+    "pricePerNightUsd": 75,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Willemstad / Curazao",
+    "description": "Comfort Inn en Willemstad / Curazao. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 59
+  },
+  {
+    "cityIata": "CUR",
+    "cityNameEs": "Willemstad / Curazao",
+    "name": "Resort Paradise Willemstad / Curazao",
+    "stars": 5,
+    "pricePerNightUsd": 271,
+    "amenities": [
+      "Todo incluido",
+      "Playa",
+      "Piscina",
+      "Kids Club"
+    ],
+    "address": "Av. Principal, Willemstad / Curazao",
+    "description": "Resort Paradise en Willemstad / Curazao. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 49
+  },
+  {
+    "cityIata": "CUR",
+    "cityNameEs": "Willemstad / Curazao",
+    "name": "Business Suites Willemstad / Curazao",
+    "stars": 4,
+    "pricePerNightUsd": 146,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Willemstad / Curazao",
+    "description": "Business Suites en Willemstad / Curazao. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 97
+  },
+  {
+    "cityIata": "AMS",
+    "cityNameEs": "Ámsterdam",
+    "name": "Gran Hotel Plaza Ámsterdam",
+    "stars": 5,
+    "pricePerNightUsd": 209,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Ámsterdam",
+    "description": "Gran Hotel Plaza en Ámsterdam. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 86
+  },
+  {
+    "cityIata": "AMS",
+    "cityNameEs": "Ámsterdam",
+    "name": "Boutique Centro Ámsterdam",
+    "stars": 4,
+    "pricePerNightUsd": 141,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Ámsterdam",
+    "description": "Boutique Centro en Ámsterdam. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 116
+  },
+  {
+    "cityIata": "AMS",
+    "cityNameEs": "Ámsterdam",
+    "name": "Comfort Inn Ámsterdam",
+    "stars": 3,
+    "pricePerNightUsd": 81,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Ámsterdam",
+    "description": "Comfort Inn en Ámsterdam. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 91
+  },
+  {
+    "cityIata": "AMS",
+    "cityNameEs": "Ámsterdam",
+    "name": "Business Suites Ámsterdam",
+    "stars": 4,
+    "pricePerNightUsd": 157,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Ámsterdam",
+    "description": "Business Suites en Ámsterdam. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 43
+  },
+  {
+    "cityIata": "FRA",
+    "cityNameEs": "Fráncfort",
+    "name": "Gran Hotel Plaza Fráncfort",
+    "stars": 5,
+    "pricePerNightUsd": 185,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Fráncfort",
+    "description": "Gran Hotel Plaza en Fráncfort. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 93
+  },
+  {
+    "cityIata": "FRA",
+    "cityNameEs": "Fráncfort",
+    "name": "Boutique Centro Fráncfort",
+    "stars": 4,
+    "pricePerNightUsd": 112,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Fráncfort",
+    "description": "Boutique Centro en Fráncfort. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 119
+  },
+  {
+    "cityIata": "FRA",
+    "cityNameEs": "Fráncfort",
+    "name": "Comfort Inn Fráncfort",
+    "stars": 3,
+    "pricePerNightUsd": 86,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Fráncfort",
+    "description": "Comfort Inn en Fráncfort. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 104
+  },
+  {
+    "cityIata": "FRA",
+    "cityNameEs": "Fráncfort",
+    "name": "Business Suites Fráncfort",
+    "stars": 4,
+    "pricePerNightUsd": 163,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Fráncfort",
+    "description": "Business Suites en Fráncfort. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 64
+  },
+  {
+    "cityIata": "ZRH",
+    "cityNameEs": "Zúrich",
+    "name": "Gran Hotel Plaza Zúrich",
+    "stars": 5,
+    "pricePerNightUsd": 202,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Zúrich",
+    "description": "Gran Hotel Plaza en Zúrich. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 63
+  },
+  {
+    "cityIata": "ZRH",
+    "cityNameEs": "Zúrich",
+    "name": "Boutique Centro Zúrich",
+    "stars": 4,
+    "pricePerNightUsd": 139,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Zúrich",
+    "description": "Boutique Centro en Zúrich. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 64
+  },
+  {
+    "cityIata": "ZRH",
+    "cityNameEs": "Zúrich",
+    "name": "Comfort Inn Zúrich",
+    "stars": 3,
+    "pricePerNightUsd": 83,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Zúrich",
+    "description": "Comfort Inn en Zúrich. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 114
+  },
+  {
+    "cityIata": "ZRH",
+    "cityNameEs": "Zúrich",
+    "name": "Business Suites Zúrich",
+    "stars": 4,
+    "pricePerNightUsd": 137,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Zúrich",
+    "description": "Business Suites en Zúrich. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 84
+  },
+  {
+    "cityIata": "HND",
+    "cityNameEs": "Tokio",
+    "name": "Gran Hotel Plaza Tokio",
+    "stars": 5,
+    "pricePerNightUsd": 210,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Tokio",
+    "description": "Gran Hotel Plaza en Tokio. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 59
+  },
+  {
+    "cityIata": "HND",
+    "cityNameEs": "Tokio",
+    "name": "Boutique Centro Tokio",
+    "stars": 4,
+    "pricePerNightUsd": 127,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Tokio",
+    "description": "Boutique Centro en Tokio. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 47
+  },
+  {
+    "cityIata": "HND",
+    "cityNameEs": "Tokio",
+    "name": "Comfort Inn Tokio",
+    "stars": 3,
+    "pricePerNightUsd": 84,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Tokio",
+    "description": "Comfort Inn en Tokio. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 91
+  },
+  {
+    "cityIata": "HND",
+    "cityNameEs": "Tokio",
+    "name": "Business Suites Tokio",
+    "stars": 4,
+    "pricePerNightUsd": 159,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Tokio",
+    "description": "Business Suites en Tokio. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 50
+  },
+  {
+    "cityIata": "SIN",
+    "cityNameEs": "Singapur",
+    "name": "Gran Hotel Plaza Singapur",
+    "stars": 5,
+    "pricePerNightUsd": 213,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Singapur",
+    "description": "Gran Hotel Plaza en Singapur. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 48
+  },
+  {
+    "cityIata": "SIN",
+    "cityNameEs": "Singapur",
+    "name": "Boutique Centro Singapur",
+    "stars": 4,
+    "pricePerNightUsd": 114,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Singapur",
+    "description": "Boutique Centro en Singapur. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 113
+  },
+  {
+    "cityIata": "SIN",
+    "cityNameEs": "Singapur",
+    "name": "Comfort Inn Singapur",
+    "stars": 3,
+    "pricePerNightUsd": 86,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Singapur",
+    "description": "Comfort Inn en Singapur. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 74
+  },
+  {
+    "cityIata": "SIN",
+    "cityNameEs": "Singapur",
+    "name": "Business Suites Singapur",
+    "stars": 4,
+    "pricePerNightUsd": 147,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Singapur",
+    "description": "Business Suites en Singapur. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 79
+  },
+  {
+    "cityIata": "BKK",
+    "cityNameEs": "Bangkok",
+    "name": "Gran Hotel Plaza Bangkok",
+    "stars": 5,
+    "pricePerNightUsd": 199,
+    "amenities": [
+      "Wifi",
+      "Piscina",
+      "Spa",
+      "Restaurante",
+      "Gym"
+    ],
+    "address": "Av. Principal, Bangkok",
+    "description": "Gran Hotel Plaza en Bangkok. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 117
+  },
+  {
+    "cityIata": "BKK",
+    "cityNameEs": "Bangkok",
+    "name": "Boutique Centro Bangkok",
+    "stars": 4,
+    "pricePerNightUsd": 144,
+    "amenities": [
+      "Wifi",
+      "Desayuno",
+      "Bar"
+    ],
+    "address": "Av. Principal, Bangkok",
+    "description": "Boutique Centro en Bangkok. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 111
+  },
+  {
+    "cityIata": "BKK",
+    "cityNameEs": "Bangkok",
+    "name": "Comfort Inn Bangkok",
+    "stars": 3,
+    "pricePerNightUsd": 85,
+    "amenities": [
+      "Wifi",
+      "Parking"
+    ],
+    "address": "Av. Principal, Bangkok",
+    "description": "Comfort Inn en Bangkok. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 94
+  },
+  {
+    "cityIata": "BKK",
+    "cityNameEs": "Bangkok",
+    "name": "Business Suites Bangkok",
+    "stars": 4,
+    "pricePerNightUsd": 137,
+    "amenities": [
+      "Wifi",
+      "Sala de reuniones",
+      "Gym",
+      "Desayuno"
+    ],
+    "address": "Av. Principal, Bangkok",
+    "description": "Business Suites en Bangkok. Seleccionado por MG Mundo Turístico para viajes de calidad.",
+    "roomsTotal": 41
+  }
+]

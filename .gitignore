@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+.yarn/
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+*.tsbuildinfo
+
+# Env & secrets (never commit real credentials)
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+id_rsa*
+credentials.json
+service-account*.json
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs & coverage
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+coverage/
+.nyc_output/
+.clinic/
+
+# Prisma local DBs (if ever used)
+apps/api/prisma/*.db
+apps/api/prisma/*.db-journal
+apps/api/prisma/dev.db*
+
+# Misc / tooling
+tmp/
+.temp/
+.turbo/
+.cache/
+.parcel-cache/
+.vercel/
+.netlify/
+*.local
+
+# Optional local agent/editor noise
+.grok/cache/
+.grok/tmp/
+
+# Test artifacts
+playwright-report/
+test-results/

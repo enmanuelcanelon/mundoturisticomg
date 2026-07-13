@@ -1,0 +1,61 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: mtmg
+          POSTGRES_PASSWORD: mtmg_dev_secret_change_in_prod
+          POSTGRES_DB: mundoturisticomg
+        ports:
+          - 5433:5432
+        options: >-
+          --health-cmd "pg_isready -U mtmg -d mundoturisticomg"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+
+    env:
+      DATABASE_URL: postgresql://mtmg:mtmg_dev_secret_change_in_prod@localhost:5433/mundoturisticomg?schema=public
+      JWT_ACCESS_SECRET: ci_access_secret_min_32_chars_long_xx
+      JWT_REFRESH_SECRET: ci_refresh_secret_min_32_chars_long_x
+      JWT_ACCESS_EXPIRES: 15m
+      JWT_REFRESH_EXPIRES: 7d
+      API_PORT: 4000
+      API_PREFIX: api/v1
+      CORS_ORIGINS: http://localhost:3000
+      NODE_ENV: test
+      NEXT_PUBLIC_API_URL: http://localhost:4000/api/v1
+      NEXT_PUBLIC_APP_NAME: Mundo Turístico MG
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate Prisma client
+        run: npm run db:generate
+
+      - name: Apply migrations
+        run: npm run prisma:deploy -w @mtmg/api
+
+      - name: Build packages
+        run: npm run build

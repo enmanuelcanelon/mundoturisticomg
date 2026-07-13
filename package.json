@@ -1,0 +1,34 @@
+{
+  "name": "mundoturisticomg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mundo Turístico MG — Full-stack travel agency platform (personal & corporate trips)",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "concurrently -n api,web -c blue,magenta \"npm run dev -w @mtmg/api\" \"npm run dev -w @mtmg/web\"",
+    "dev:api": "npm run dev -w @mtmg/api",
+    "dev:web": "npm run dev -w @mtmg/web",
+    "build": "npm run build -w @mtmg/shared && npm run build -w @mtmg/api && npm run build -w @mtmg/web",
+    "db:generate": "npm run prisma:generate -w @mtmg/api",
+    "db:migrate": "npm run prisma:migrate -w @mtmg/api",
+    "db:seed": "npm run prisma:seed -w @mtmg/api",
+    "db:studio": "npm run prisma:studio -w @mtmg/api",
+    "lint": "npm run lint -w @mtmg/api && npm run lint -w @mtmg/web",
+    "docker:up": "docker compose up -d",
+    "docker:down": "docker compose down",
+    "setup": "npm install && npm run docker:up && sleep 3 && npm run db:generate && npm run db:migrate && npm run db:seed",
+    "test:smoke": "bash scripts/smoke-test.sh"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "overrides": {
+    "three": "^0.185.1"
+  }
+}

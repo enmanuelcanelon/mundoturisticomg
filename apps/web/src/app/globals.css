@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-primary: #0a4d8c;
+  --brand-secondary: #1a6bb5;
+  --brand-blue: #0066cc;
+  --brand-accent: #ff5a00;
+  --brand-accent-hot: #e63900;
+  --brand-night: #041018;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  @apply bg-brand-night text-white antialiased;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(0, 102, 204, 0.28), transparent),
+    radial-gradient(ellipse 50% 40% at 100% 100%, rgba(255, 90, 0, 0.08), transparent);
+  min-height: 100vh;
+}
+
+/* Custom scrollbar — naranja de marca */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(4, 16, 24, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 90, 0, 0.45);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 90, 0, 0.7);
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/10 backdrop-blur-xl border border-white/15 shadow-glass;
+  }
+
+  .glass-dark {
+    @apply bg-slate-950/75 backdrop-blur-xl border border-white/10 shadow-glass;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-accent px-5 py-2.5
+      font-semibold text-white transition hover:bg-brand-accentHot
+      focus:outline-none focus:ring-2 focus:ring-brand-accent/60 focus:ring-offset-2 focus:ring-offset-brand-night
+      disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-brand-blue/40 bg-brand-blue/15
+      px-5 py-2.5 font-medium text-white transition hover:bg-brand-blue/30
+      focus:outline-none focus:ring-2 focus:ring-brand-sky/40;
+  }
+
+  .input-field {
+    @apply w-full rounded-xl border border-white/15 bg-white/5 px-4 py-2.5 text-white
+      placeholder:text-white/40 outline-none transition
+      focus:border-brand-accent/70 focus:ring-2 focus:ring-brand-accent/20;
+  }
+
+  .label-field {
+    @apply mb-1.5 block text-xs font-medium uppercase tracking-wider text-white/60;
+  }
+
+  /* Panel de reserva — blanco, azul y toques naranja del logo MG */
+  .booking-panel {
+    @apply bg-white text-slate-800 shadow-2xl;
+    border-left: 1px solid rgba(0, 102, 204, 0.12);
+    box-shadow: -8px 0 32px rgba(0, 74, 153, 0.08), 0 0 0 1px rgba(255, 90, 0, 0.06);
+  }
+
+  .booking-panel .panel-label {
+    @apply mb-1.5 block text-xs font-semibold uppercase tracking-wider text-brand-blue;
+  }
+
+  .booking-panel .panel-input {
+    @apply w-full rounded-xl border border-blue-100 bg-slate-50 px-4 py-2.5 text-slate-800
+      outline-none transition
+      focus:border-brand-accent focus:ring-2 focus:ring-brand-accent/20;
+  }
+
+  .booking-panel .btn-panel {
+    @apply inline-flex w-full items-center justify-center gap-2 rounded-xl px-5 py-2.5
+      font-semibold text-white transition
+      focus:outline-none focus:ring-2 focus:ring-brand-accent/40
+      disabled:cursor-not-allowed disabled:opacity-50;
+    background: linear-gradient(135deg, #0066cc 0%, #0a4d8c 55%, #ff5a00 160%);
+  }
+  .booking-panel .btn-panel:hover:not(:disabled) {
+    filter: brightness(1.06);
+    box-shadow: 0 4px 16px rgba(255, 90, 0, 0.25);
+  }
+
+  .booking-panel .btn-panel-ghost {
+    @apply inline-flex w-full items-center justify-center gap-2 rounded-xl border border-orange-200
+      bg-orange-50/50 px-5 py-2.5 font-medium text-brand-accent transition hover:bg-orange-50;
+  }
+}
+
+/* Stars background */
+.stars {
+  background-image:
+    radial-gradient(1px 1px at 20px 30px, white, transparent),
+    radial-gradient(1px 1px at 40px 70px, rgba(255, 255, 255, 0.8), transparent),
+    radial-gradient(1.5px 1.5px at 50px 160px, white, transparent),
+    radial-gradient(1px 1px at 90px 40px, rgba(255, 255, 255, 0.7), transparent),
+    radial-gradient(1.5px 1.5px at 130px 80px, white, transparent),
+    radial-gradient(1px 1px at 160px 120px, rgba(255, 255, 255, 0.6), transparent);
+  background-size: 200px 200px;
+}

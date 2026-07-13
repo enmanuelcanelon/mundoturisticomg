@@ -1,0 +1,261 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  CUSTOMER
+  AGENT
+  ADMIN
+}
+
+enum PassengerType {
+  ADULT
+  CHILD
+  INFANT
+  SENIOR
+}
+
+enum BookingStatus {
+  DRAFT
+  PENDING
+  CONFIRMED
+  CANCELLED
+  COMPLETED
+}
+
+enum BookingType {
+  FLIGHT
+  HOTEL
+  PACKAGE
+}
+
+enum CabinClass {
+  ECONOMY
+  PREMIUM_ECONOMY
+  BUSINESS
+  FIRST
+}
+
+enum PaymentStatus {
+  PENDING
+  PAID
+  FAILED
+  REFUNDED
+}
+
+model User {
+  id           String    @id @default(uuid())
+  email        String    @unique
+  passwordHash String    @map("password_hash")
+  firstName    String    @map("first_name")
+  lastName     String    @map("last_name")
+  phone        String?
+  role         UserRole  @default(CUSTOMER)
+  isActive     Boolean   @default(true) @map("is_active")
+  emailVerified Boolean  @default(false) @map("email_verified")
+  createdAt    DateTime  @default(now()) @map("created_at")
+  updatedAt    DateTime  @updatedAt @map("updated_at")
+
+  refreshTokens RefreshToken[]
+  bookings      Booking[]
+  passengers    PassengerProfile[]
+
+  @@map("users")
+}
+
+model RefreshToken {
+  id        String   @id @default(uuid())
+  tokenHash String   @map("token_hash")
+  userId    String   @map("user_id")
+  expiresAt DateTime @map("expires_at")
+  revoked   Boolean  @default(false)
+  userAgent String?  @map("user_agent")
+  ip        String?
+  createdAt DateTime @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([tokenHash])
+  @@map("refresh_tokens")
+}
+
+model Country {
+  id        String   @id @default(uuid())
+  code      String   @unique // ISO 3166-1 alpha-2
+  name      String
+  nameEs    String   @map("name_es")
+  lat       Float
+  lng       Float
+  continent String?
+  popular   Boolean  @default(false)
+  imageUrl  String?  @map("image_url")
+  createdAt DateTime @default(now()) @map("created_at")
+
+  cities City[]
+
+  @@map("countries")
+}
+
+model City {
+  id          String   @id @default(uuid())
+  name        String
+  nameEs      String   @map("name_es")
+  countryId   String   @map("country_id")
+  lat         Float
+  lng         Float
+  iataCode    String?  @map("iata_code") // main airport
+  popular     Boolean  @default(false)
+  description String?
+  imageUrl    String?  @map("image_url")
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  country Country @relation(fields: [countryId], references: [id], onDelete: Cascade)
+  hotels  Hotel[]
+  originFlights      Flight[] @relation("OriginCity")
+  destinationFlights Flight[] @relation("DestinationCity")
+
+  @@index([countryId])
+  @@index([name])
+  @@index([iataCode])
+  @@map("cities")
+}
+
+model Airline {
+  id        String   @id @default(uuid())
+  code      String   @unique // IATA
+  name      String
+  logoUrl   String?  @map("logo_url")
+  createdAt DateTime @default(now()) @map("created_at")
+
+  flights Flight[]
+
+  @@map("airlines")
+}
+
+model Flight {
+  id              String     @id @default(uuid())
+  flightNumber    String     @map("flight_number")
+  airlineId       String     @map("airline_id")
+  originCityId    String     @map("origin_city_id")
+  destinationCityId String   @map("destination_city_id")
+  departureAt     DateTime   @map("departure_at")
+  arrivalAt       DateTime   @map("arrival_at")
+  cabinClass      CabinClass @default(ECONOMY) @map("cabin_class")
+  basePriceUsd    Decimal    @map("base_price_usd") @db.Decimal(12, 2)
+  currency        String     @default("USD")
+  seatsAvailable  Int        @map("seats_available")
+  totalSeats      Int        @map("total_seats")
+  isActive        Boolean    @default(true) @map("is_active")
+  createdAt       DateTime   @default(now()) @map("created_at")
+  updatedAt       DateTime   @updatedAt @map("updated_at")
+
+  airline       Airline @relation(fields: [airlineId], references: [id])
+  originCity    City    @relation("OriginCity", fields: [originCityId], references: [id])
+  destinationCity City  @relation("DestinationCity", fields: [destinationCityId], references: [id])
+  bookingItems  BookingItem[]
+
+  @@index([originCityId, destinationCityId, departureAt])
+  @@index([departureAt])
+  @@map("flights")
+}
+
+model Hotel {
+  id           String   @id @default(uuid())
+  name         String
+  cityId       String   @map("city_id")
+  stars        Int      @default(3)
+  address      String?
+  lat          Float?
+  lng          Float?
+  description  String?
+  amenities    String[] @default([])
+  imageUrl     String?  @map("image_url")
+  pricePerNightUsd Decimal @map("price_per_night_usd") @db.Decimal(12, 2)
+  currency     String   @default("USD")
+  roomsTotal   Int      @map("rooms_total")
+  isActive     Boolean  @default(true) @map("is_active")
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  city         City @relation(fields: [cityId], references: [id])
+  bookingItems BookingItem[]
+
+  @@index([cityId])
+  @@map("hotels")
+}
+
+model PassengerProfile {
+  id          String        @id @default(uuid())
+  userId      String        @map("user_id")
+  firstName   String        @map("first_name")
+  lastName    String        @map("last_name")
+  documentId  String?       @map("document_id")
+  type        PassengerType @default(ADULT)
+  birthDate   DateTime?     @map("birth_date")
+  createdAt   DateTime      @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("passenger_profiles")
+}
+
+model Booking {
+  id              String        @id @default(uuid())
+  reference       String        @unique // e.g. MTMG-AB12CD
+  userId          String        @map("user_id")
+  type            BookingType
+  status          BookingStatus @default(DRAFT)
+  tripType        String?       @map("trip_type") // oneway | roundtrip
+  departureDate   DateTime?     @map("departure_date")
+  returnDate      DateTime?     @map("return_date")
+  adults          Int           @default(1)
+  children        Int           @default(0)
+  infants         Int           @default(0)
+  seniors         Int           @default(0)
+  totalAmountUsd  Decimal       @map("total_amount_usd") @db.Decimal(12, 2) @default(0)
+  currency        String        @default("USD")
+  paymentStatus   PaymentStatus @default(PENDING) @map("payment_status")
+  notes           String?
+  contactEmail    String?       @map("contact_email")
+  contactPhone    String?       @map("contact_phone")
+  createdAt       DateTime      @default(now()) @map("created_at")
+  updatedAt       DateTime      @updatedAt @map("updated_at")
+
+  user  User          @relation(fields: [userId], references: [id])
+  items BookingItem[]
+
+  @@index([userId])
+  @@index([reference])
+  @@index([status])
+  @@map("bookings")
+}
+
+model BookingItem {
+  id           String   @id @default(uuid())
+  bookingId    String   @map("booking_id")
+  itemType     String   @map("item_type") // FLIGHT | HOTEL
+  flightId     String?  @map("flight_id")
+  hotelId      String?  @map("hotel_id")
+  checkIn      DateTime? @map("check_in")
+  checkOut     DateTime? @map("check_out")
+  rooms        Int?
+  quantity     Int      @default(1)
+  unitPriceUsd Decimal  @map("unit_price_usd") @db.Decimal(12, 2)
+  totalPriceUsd Decimal @map("total_price_usd") @db.Decimal(12, 2)
+  meta         Json?
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  booking Booking @relation(fields: [bookingId], references: [id], onDelete: Cascade)
+  flight  Flight? @relation(fields: [flightId], references: [id])
+  hotel   Hotel?  @relation(fields: [hotelId], references: [id])
+
+  @@index([bookingId])
+  @@map("booking_items")
+}

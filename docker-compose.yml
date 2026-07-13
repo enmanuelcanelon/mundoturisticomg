@@ -1,0 +1,37 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: mtmg-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: mtmg
+      POSTGRES_PASSWORD: mtmg_dev_secret_change_in_prod
+      POSTGRES_DB: mundoturisticomg
+    ports:
+      - "5433:5432"
+    volumes:
+      - mtmg_pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mtmg -d mundoturisticomg"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    container_name: mtmg-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - mtmg_redis_data:/data
+    command: redis-server --appendonly yes --requirepass mtmg_redis_dev
+    healthcheck:
+      test: ["CMD", "redis-cli", "-a", "mtmg_redis_dev", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  mtmg_pg_data:
+  mtmg_redis_data:
